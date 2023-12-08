@@ -1,6 +1,5 @@
 <!-- ![MasterHead](https://wallpaperbat.com/img/339664-circuit-hd-wallpaper-and-background-image.jpg) -->
 <h1 align="center">Hello World 👋, I'm Makuochukwu (call me Okeke)</h1>
-<h3 align="center">I build Software.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makuo67&label=Profile%20views&color=0e75b6&style=flat" alt="makuo67" /> </p>
